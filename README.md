@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @isaac-florence
 
-I'm a [Field Epidemiologist[(https://www.cdc.gov/eis/field-epi-manual/chapters/Defining-Field-Epi.html) at the [UK Health Security Agency](https://www.gov.uk/government/organisations/uk-health-security-agency). 
+I'm a [Field Epidemiologist](https://www.cdc.gov/eis/field-epi-manual/chapters/Defining-Field-Epi.html) at the [UK Health Security Agency](https://www.gov.uk/government/organisations/uk-health-security-agency). 
 
 ## Although I am an epidemiologist by training, my work currently also includes:
 - Leading small, medium, and big teams of epidemiologists, data scientists, and software developers
